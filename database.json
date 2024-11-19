@@ -1,0 +1,149 @@
+{
+  "questions": [
+    {
+      "question": "ligar lampada",
+      "answer": "Lampada ligada!",
+      "action": "ligar_lampada"
+    },
+    {
+      "question": "ola",
+      "answer": "ol\u00e1 o que posso ajudar?"
+    },
+    {
+      "question": "quem e o maior jogador de basquete do brasil?",
+      "answer": "um ex-jogador brasileiro de basquetebol, considerado um dos maiores jogadores brasileiros e do mundo em todos os tempos, mesmo sem ter atuado na NBA. Possui 2,05m de altura e seu numero da sorte o 14, numero que usou no Pan de 1987"
+    },
+    {
+      "question": "por que voce foi criado?",
+      "answer": "Para ajudar com o que for preciso, entre minhas limitadas funcoes"
+    },
+    {
+      "question": "qual o pais mais rico da europa ",
+      "answer": "a alemanha e o pais mais rico da europa com pib de mais de 4 trilhoes USD "
+    },
+    {
+      "question": "quem e seu criador?",
+      "answer": "Renan e meu criador, fez o primeiro teste a partir de videos de machinelearnin e testou esse codigo no dia 13 do mes 7 de 2024"
+    },
+    {
+      "question": "oxi",
+      "answer": "o que voce nao entendeu?"
+    },
+    {
+      "question": "qual o pais mais rico do mundo?",
+      "answer": "Estados Unidos, lidera o ranking com um pib de US$ 27,36 trilh\u00c3\u00b5es"
+    },
+    {
+      "question": "quem e voce?",
+      "answer": "sou chatBot criada por Renan"
+    },
+    {
+      "question": "quem sou eu?",
+      "answer": "nao sei seu nome mas estou aqui para te atender"
+    },
+    {
+      "question": "ok espero que vc seja alguem legal",
+      "answer": "obrigado espero que te agrade"
+    },
+    {
+      "question": "Ol\u00e1",
+      "answer": "ol\u00e1 o que eu posso te ajudar?"
+    },
+    {
+      "question": "Bom dia",
+      "answer": "bom dia"
+    },
+    {
+      "question": "quem que \u00e9 Renan",
+      "answer": "meu criador"
+    },
+    {
+      "question": "por que devo confiar em voce?",
+      "answer": "Sou apenas um monte de linhas simples, nao ha nada que me torne nao confiavel"
+    },
+    {
+      "question": "Qual sua nacionalidade",
+      "answer": "fui criada no Brasil"
+    },
+    {
+      "question": "sinopse de gintama",
+      "answer": "Gintama e uma serie que conta a hist\u00c3\u00b3ria de Sakata Gintoki, um samurai fudido que faz bico como faz tudo para sobreviver em Edo invadida por alies, la em kabuki nos distrito das puta"
+    },
+    {
+      "question": "primeiro povo do japao",
+      "answer": "Os jomon vieram para o japao por meio de um glacial e deram origem a primeira cultura no arquipelo que mais tarde daria origem ao xintoismo"
+    },
+    {
+      "question": "Qual o maior problema do Brasil?",
+      "answer": "Em resumo o Brasil e historicamente quebrado com instituicoes provendo o minimo para o povo e nao se preoucupando com infrastrutara social a longo prazo"
+    },
+    {
+      "question": "O que voc\u00c3\u00aa pode fazer?",
+      "answer": "Posso responder perguntas, fornecer informa\u00c3\u00a7\u00c3\u00b5es e ajudar em v\u00c3\u00a1rias tarefas."
+    },
+    {
+      "question": "uma pessoa",
+      "answer": "e quem seria essa pessoa?"
+    },
+    {
+      "question": "me ensina como falar?",
+      "answer": "Voc\u00ea est\u00e1 tentando ensinar algo?"
+    },
+    {
+      "question": "qual sua opiniao sobre hitler",
+      "answer": "Hitler lider alemao controverso e melhor nao abordar este assunto"
+    },
+    {
+      "question": "como conversar?",
+      "answer": "sobre o que esta tentando conversar?"
+    },
+    {
+      "question": "algum assunto?",
+      "answer": "qual seria este assunto"
+    },
+    {
+      "question": "como faco sangria?",
+      "answer": "Voc\u00ea est\u00e1 tentando sangrer algo?"
+    },
+    {
+      "question": "Voc\u00ea est\u00e1 tentando comecar algo? Me explique melhor. Voc\u00ea est\u00e1 tentando desenhar algo? Me explique melhor.",
+      "answer": "ok"
+    },
+    {
+      "question": "Voc\u00ea quer saber como come\u00e7ar a desenhar? Posso ajudar com dicas espec\u00edficas!",
+      "answer": "Recomenda\u00e7\u00f5es gerais. A melhor forma de aperfei\u00e7oar uma habilidade \u00e9 praticar v\u00e1rias vezes, at\u00e9 dominar a t\u00e9cnica. Tire ao menos vinte minutos por dia para desenhar o que vier \u00e0 cabe\u00e7a. N\u00e3o precisa ter sentido, o importante \u00e9 come\u00e7ar a exercitar os m\u00fasculos da m\u00e3o e adquirir o h\u00e1bito de desenhar."
+    },
+    {
+      "question": "co\u00e9",
+      "answer": "fala meu patr\u00e3o"
+    },
+    {
+      "question": "como vai seu dia",
+      "answer": "hoje \u00e9 um otimo dia se voce tambem estiver bem"
+    },
+    {
+      "question": "quero saber como baixar league of legends",
+      "answer": "va ao site da riot la tem todos os passos para isso"
+    },
+    {
+      "question": "como posso baixar overwatch",
+      "answer": "v\u00e1 ao site da blizzard em seu laucher ou na propria steam e inicie o download"
+    },
+    {
+      "question": "baixar overwatch",
+      "answer": "v\u00e1 ao site da blizzard em seu laucher ou na propria steam e inicie o download"
+    },
+    {
+      "question": "como baixar overwa",
+      "answer": "clear"
+    },
+    {
+      "question": "complete a m\u00fasica",
+      "answer": "sim, posso completar"
+    },
+    {
+      "question": "Cheiro de pneu queimado",
+      "answer": "Carburador furado, o x9 foi torrado"
+    }
+  ]
+}
