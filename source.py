@@ -1,5 +1,4 @@
 import json
-#from difflib import get_close_matches
 from typing import List, Dict, Union
 import speech_recognition as sr
 from tts import textToSpeech
@@ -7,7 +6,6 @@ from rapidfuzz import process
 from gerarRespostaLogica import gerarRespostaLogica
 
 def exeAction(act: str):
-    """Executa uma ação específica baseada no comando fornecido."""
     if act == "ligar_lampada":
         print("Executando: Ligando a lâmpada.")
     elif act == "desligar_lampada":
@@ -16,13 +14,11 @@ def exeAction(act: str):
         print("Ação não reconhecida.")
 
 def carregarConhecimento(file_path: str) -> Dict:
-    """Carrega o conhecimento de um arquivo JSON."""
     with open(file_path, "r") as file:
         data = json.load(file)
     return data
 
 def salvarConhecimento(file_path: str, data: Dict) -> None:
-    """Salva o conhecimento em um arquivo JSON."""
     with open(file_path, "w") as file:
         json.dump(data, file, indent=2)
 
@@ -34,14 +30,12 @@ def melhorResposta(user_question: str, questions: List[str]) -> Union[str, None]
     return None
 
 def pegaRespostas(question: str, baseConhecimento: Dict) -> Union[str, None]:
-    """Obtém a resposta para a pergunta fornecida da base de conhecimento."""
     for q in baseConhecimento["questions"]:
         if q["question"] == question:
             return q["answer"]
     return None
 
 def chat_with_bot():
-    """Interage com o usuário em um chat, utilizando a base de conhecimento."""
     baseConhecimento = carregarConhecimento("database.json")
     
     print("Digite 'sair' para encerrar a conversa.")
